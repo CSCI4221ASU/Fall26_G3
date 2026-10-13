@@ -255,12 +255,12 @@ Non submission or submission not acceptable according to ASU policy.
 
 ### Tyjah Banks
 
-See [Tyjah Banks's Project 2](Project2/DennisJordan/Fall26_G3-main/prototypes/dashboard_description.md)
+See [Tyjah Banks's Project 2](Project2/TyjahBanks/Fall26_G1-main/Project2/README.md)
 
 ### Jordan Dennis
 
-See [Jordan Dennis's Project 2]()
+See [Jordan Dennis's Project 2](Project2/DennisJordan/Fall26_G3-main/prototypes/dashboard_description.md)
 
 ### Gregory Hamilton
 
-See [Gregory Hamilton's Project 2]()
+See [Gregory Hamilton's Project 2](Project2/GregoryHamilton/CSCI4221ASU-Fall26_G-main/prototype/index.html)
