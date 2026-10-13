@@ -248,3 +248,19 @@ Review the README for missing or inconsistent information	September 17, 2026
 ### 3. Gregory Hamilton
 
 Non submission or submission not acceptable according to ASU policy.
+
+
+
+## Project 2
+
+### Tyjah Banks
+
+See [Tyjah Banks's Project 2]()
+
+### Jordan Dennis
+
+See [Jordan Dennis's Project 2]()
+
+### Gregory Hamilton
+
+See [Gregory Hamilton's Project 2]()
