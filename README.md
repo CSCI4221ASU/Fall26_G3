@@ -255,7 +255,7 @@ Non submission or submission not acceptable according to ASU policy.
 
 ### Tyjah Banks
 
-See [Tyjah Banks's Project 2]()
+See [Tyjah Banks's Project 2](Project2/DennisJordan/Fall26_G3-main/prototypes/dashboard_description.md)
 
 ### Jordan Dennis
 
